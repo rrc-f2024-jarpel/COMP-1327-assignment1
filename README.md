@@ -33,3 +33,33 @@ nothing added to commit but untracked files present (use "git add" to track)
 -Allows you to make test versions while still having a functioning version up for use
 -If a major error should occur you can see what version this error popped up and if neccesary you can roll back to a previous version
 
+# Purpose of the following Git Commands
+- 'git init':
+    Initializes GIT in the current directory, turning it into a repository so it can interact with websites like github
+
+- 'git status':
+    Displays the status of the files in the repository. Whether they are being tracked, and if the local repository is up to date
+
+- 'git add':
+    Adds untracked files to the repository
+
+- 'git commit':
+    Adds tracked files to a commit, this allows to to push them in a bunch to the current branch, along with a message
+
+- 'git push':
+    pushes whatever has been commited to the current branch so others can access these changes
+
+- 'git pull':
+    pulls from the main repository to update the local repository of anychanges
+
+- 'git log':
+    dispalys a history of all the commits for the current repository
+
+- 'git branch':
+    Used to create new branches, list the branches availible in the repository, or delete branches
+
+- 'git merge':
+    Merges two branches together, this may cause conflicts and these will need to be resolved. Often a git pull aleviates many merge conflicts
+
+- 'git checkout':
+    Changes the current branch to the one specified
