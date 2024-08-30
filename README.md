@@ -1,3 +1,14 @@
+# Assignment 1
+
+## Description
+    Comp 1327
+    Module 1
+## Author
+    Jared W. Pelletier
+
+## Assignment
+    Answer questions about git commands and utilize them to make a repository
+
 # First git status output:
 On branch main
 
