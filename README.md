@@ -63,3 +63,9 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 - 'git checkout':
     Changes the current branch to the one specified
+
+# My Unique Touch
+## What set me apart from others:
+- I enjoy long bike rides
+- I am tall, standing at 6'4" so i am quite noticable in a crowd
+- I also enjoy long walks and hiking
