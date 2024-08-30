@@ -16,3 +16,12 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 
+# Purpose of following commands:
+- 'mkdir':
+    Makes a directory/folder
+- 'cd':
+    changes directory to the one specified after eg: cd "My Documents"
+- 'code':
+    Opens the visual editor. In this case Visual Studio Code
+- 'ls':
+    lists directories in the current directory
