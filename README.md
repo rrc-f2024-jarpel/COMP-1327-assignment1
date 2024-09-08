@@ -1,6 +1,7 @@
 # Assignment 1
 
 ## Description
+    Semester 1
     Comp 1327
     Module 1
 ## Author
